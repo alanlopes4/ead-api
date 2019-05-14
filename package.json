@@ -1,0 +1,19 @@
+{
+  "name": "ead-api",
+  "version": "0.0.1",
+  "description": "API de plataforma de ensino a distancia",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon src/index"
+  },
+  "keywords": [
+    "plataforma",
+    "EAD"
+  ],
+  "author": "Alan Lopes",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^18.3.1"
+  }
+}
